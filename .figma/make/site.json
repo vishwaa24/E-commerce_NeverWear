@@ -1,0 +1,10 @@
+{
+  "description": "A premium e-commerce platform offering modern Indian streetwear with seamless browsing, curated collections, and a sleek shopping experience for Gen Z.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
